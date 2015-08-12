@@ -1,0 +1,19 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
+    "draw_white_space": "all",
+    "font_size": 12,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        120
+    ],
+    "tab_size": 4,
+    "trailing_spaces_trim_on_save": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true,
+    "detect_indentation": false
+}
